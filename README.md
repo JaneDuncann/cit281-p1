@@ -9,7 +9,7 @@ In this lab I gained experience working in the command line, and executing non-w
 - Node.js
 
 ## What I learned from this Project
-During this lab, I learned...
+During this project, I learned...
 - About the ping command
 - Terminal folder display in a tree-like structure
 - To write a simple program that returns a random number between min and max
